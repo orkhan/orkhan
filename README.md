@@ -5,6 +5,7 @@
 - 🧠 Founder of SmartStock AI
 - 👨‍💻 My projects and writing: [maharramli.tech](https://maharramli.tech) · more at [orkhan.maharram.li](https://orkhan.maharram.li)
 - 🎬 YouTube: [Tech IT with Maharramli](https://www.youtube.com/@maharram_li)
+- 🧡 Patreon: [patreon.com/maharramli](https://patreon.com/maharramli)
 - 💬 Ask me about **Ruby on Rails, Go, Nuxt, Vue, React, Docker**
 - 📫 Reach me: **orkhan@maharram.li**
 
@@ -16,11 +17,14 @@
 <a href="https://www.youtube.com/@maharram_li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 <a href="https://www.tiktok.com/@maharram_li" target="blank"><img align="center" src="https://cdn.simpleicons.org/tiktok/000000" alt="TikTok" height="30" width="40" /></a>
 <a href="https://wa.me/994503635653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+<a href="https://patreon.com/maharramli" target="blank"><img align="center" src="https://cdn.simpleicons.org/patreon/FF424D" alt="Patreon" height="30" width="40" /></a>
 <a href="mailto:orkhan@maharram.li" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" width="40" /></a>
 </p>
 
 # ☕ Support me
 <a href="https://kofe.al/@maharramli" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1047/1047462.png" alt="Buy me a coffee on kofe.al" height="40" width="40" /></a> [kofe.al/@maharramli](https://kofe.al/@maharramli)
+
+🧡 [Become a patron on Patreon](https://patreon.com/maharramli)
 
 <p align="left"><a href="https://kofe.al/@maharramli" target="blank"><img src="kofe-qr.png" alt="kofe.al donation QR code" width="180" /></a></p>
 
