@@ -2,7 +2,6 @@
 <h3 align="center">Full-stack engineer from Baku, Azerbaijan. I build web platforms and APIs end to end — Rails, Go, Nuxt/Vue and React — and lead engineering teams that ship them.</h3>
 
 - 🔭 Seller Tribe Engineering Lead at [Birmarket](https://birmarket.az)
-- 🚀 CTO at StarKidStories
 - 🧠 Founder of SmartStock AI
 - 👨‍💻 My projects and writing: [maharramli.tech](https://maharramli.tech) · more at [orkhan.maharram.li](https://orkhan.maharram.li)
 - 🎬 YouTube: [Tech IT with Maharramli](https://www.youtube.com/@maharram_li)
