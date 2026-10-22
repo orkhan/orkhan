@@ -11,12 +11,12 @@
 # Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/orkhanm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://t.me/maharramli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" /></a>
+<a href="https://t.me/maharramli" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" height="30" width="40" /></a>
 <a href="https://www.instagram.com/maharram.li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@maharram_li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@maharram_li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@maharram_li" target="blank"><img align="center" src="https://cdn.simpleicons.org/tiktok/000000" alt="TikTok" height="30" width="40" /></a>
 <a href="https://wa.me/994503635653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
-<a href="mailto:orkhan@maharram.li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+<a href="mailto:orkhan@maharram.li" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" width="40" /></a>
 </p>
 
 # ☕ Support me
