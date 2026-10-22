@@ -24,7 +24,7 @@
 # ☕ Support me
 <a href="https://kofe.al/@maharramli" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1047/1047462.png" alt="Buy me a coffee on kofe.al" height="40" width="40" /></a> [kofe.al/@maharramli](https://kofe.al/@maharramli)
 
-🧡 [Become a patron on Patreon](https://patreon.com/maharramli)
+<a href="https://patreon.com/maharramli" target="blank"><img align="center" src="https://cdn.simpleicons.org/patreon/FF424D" alt="Support on Patreon" height="40" width="40" /></a> [patreon.com/maharramli](https://patreon.com/maharramli)
 
 <p align="left"><a href="https://kofe.al/@maharramli" target="blank"><img src="kofe-qr.png" alt="kofe.al donation QR code" width="180" /></a></p>
 
